@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "273928117319",
+    "firebase_url": "https://puppymarket-30366.firebaseio.com",
+    "project_id": "puppymarket-30366",
+    "storage_bucket": "puppymarket-30366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273928117319:android:5e575f6daf5177c0d46562",
+        "android_client_info": {
+          "package_name": "com.example.app_ban_hang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273928117319-c2hnogm66asrrh3133g0e3trg6tntt15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_ban_hang",
+            "certificate_hash": "c83d829b4518285c95f93377ef243c19234fdc3d"
+          }
+        },
+        {
+          "client_id": "273928117319-j50mid0a280i4lqah7v5rhqb5rhnchr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDoqLCCMZNWb6030pwsevkDVwGL8BNVOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273928117319-j50mid0a280i4lqah7v5rhqb5rhnchr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
